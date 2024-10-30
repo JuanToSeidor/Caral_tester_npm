@@ -1,0 +1,1 @@
+module.export = () => console.log("test de packete de iconos")
