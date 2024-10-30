@@ -9,7 +9,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "repository": "",
+  "repository": "https://github.com/JuanToSeidor/Caral_tester_npm.git",
   "author": "JuanToSeidor",
   "license": "ISC"
 }
