@@ -1,1 +1,2 @@
-module.export = () => console.log("test de packete de iconos")
+import CaralIcon from './menu';
+import Colorbrnad from './brands';

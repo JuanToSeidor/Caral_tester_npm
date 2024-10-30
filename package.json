@@ -1,6 +1,6 @@
 {
   "name": "icon-caral-tester",
-  "version": "1.1.0",
+  "version": "0.08.0",
   "description": "Iconos de seidor parra uso interno o relacionado a la compañia",
   "main": "index.js",
   "scripts": {
